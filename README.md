@@ -5,7 +5,7 @@ An interactive Streamlit-based data science application for comprehensive statis
 ---
 
 ## 🚀 Live Demo
-👉 https://your-streamlit-app-link.streamlit.app
+👉 [https://your-streamlit-app-link.streamlit.app](https://statisticalexplorer-scremn2pmzxwdbp2zkbvl2.streamlit.app/)
 
 ---
 
