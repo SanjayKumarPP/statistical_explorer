@@ -1,0 +1,40 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Data files (optional)
+# *.csv
+# *.xlsx
+
+# Build / distribution files
+dist/
+build/
+*.egg-info/
